@@ -1,0 +1,75 @@
+[
+    {
+        "package": "tinkr",
+        "url": "https://github.com/ropensci/tinkr",
+        "branch": "master"
+    },
+    {
+        "package": "pegboard",
+        "url": "https://github.com/carpentries/pegboard",
+        "branch": "main"
+    },
+    {
+        "package": "sandpaper",
+        "url": "https://github.com/carpentries/sandpaper",
+        "branch": "main"
+    },
+    {
+        "package": "varnish",
+        "url": "https://github.com/carpentries/varnish",
+        "branch": "main"
+    },
+    {
+        "package": "poppr",
+        "url": "https://github.com/grunwaldlab/poppr",
+        "branch": "main"
+    },
+    {
+        "package": "adegenet",
+        "url": "https://github.com/thibautjombart/adegenet"
+    },
+    {
+        "package": "aweek",
+        "url": "https://github.com/reconhub/aweek"
+    },
+    {
+        "package": "incidence",
+        "url": "https://github.com/reconhub/incidence"
+    },
+    {
+        "package": "matchmaker",
+        "url": "https://github.com/reconhub/matchmaker"
+    },
+    {
+        "package": "epidict",
+        "url": "https://github.com/r4epi/epidict"
+    },
+    {
+        "package": "epikit",
+        "url": "https://github.com/r4epi/epikit"
+    },
+    {
+        "package": "apyramid",
+        "url": "https://github.com/r4epi/apyramid"
+    },
+    {
+        "package": "epibuffet",
+        "url": "https://github.com/r4epi/epibuffet"
+    },
+    {
+        "package": "sitrep",
+        "url": "https://github.com/r4epi/sitrep"
+    },
+    {
+        "package": "repvar",
+        "url": "https://github.com/zkamvar/repvar"
+    },
+    {
+        "package": "beaverdown",
+        "url": "https://github.com/zkamvar/beaverdown"
+    },
+    {
+        "package": "ggcompoplot",
+        "url": "https://github.com/zkamvar/ggcompoplot"
+    }
+]
