@@ -29,6 +29,10 @@
         "url": "https://github.com/thibautjombart/adegenet"
     },
     {
+        "package": "hierfstat",
+        "url": "https://github.com/jgx65/hierfstat"
+    },
+    {
         "package": "aweek",
         "url": "https://github.com/reconhub/aweek"
     },
