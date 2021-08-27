@@ -1,6 +1,6 @@
 # Zhian Kamvar's R Package Universe
 
-https://zkamvar.r-universe.org/ui#builds
+https://zkamvar.r-universe.dev/ui#builds
 
 To install packages from this universe, use
 
