@@ -12,7 +12,11 @@
     {
         "package": "sandpaper",
         "url": "https://github.com/carpentries/sandpaper",
-        "branch": "main"
+        "branch": "package-management"
+    },
+    {
+        "package": "renv",
+        "url": "https://github.com/rstudio/renv"
     },
     {
         "package": "varnish",
