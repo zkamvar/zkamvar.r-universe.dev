@@ -12,7 +12,6 @@
     {
         "package": "sandpaper",
         "url": "https://github.com/carpentries/sandpaper",
-        "branch": "package-management"
     },
     {
         "package": "renv",
