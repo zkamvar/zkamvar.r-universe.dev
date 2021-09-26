@@ -32,8 +32,16 @@
         "url": "https://github.com/thibautjombart/adegenet"
     },
     {
+        "package": "ade4",
+        "url": "https://github.com/sdray/ade4"
+    },
+    {
         "package": "hierfstat",
         "url": "https://github.com/jgx65/hierfstat"
+    },
+    {
+        "package": "strataG",
+        "url": "https://github.com/EricArcher/strataG/"
     },
     {
         "package": "aweek",
