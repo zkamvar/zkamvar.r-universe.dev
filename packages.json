@@ -11,7 +11,7 @@
     },
     {
         "package": "sandpaper",
-        "url": "https://github.com/carpentries/sandpaper",
+        "url": "https://github.com/carpentries/sandpaper"
     },
     {
         "package": "renv",
