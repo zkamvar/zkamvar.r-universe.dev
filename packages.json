@@ -29,7 +29,8 @@
     },
     {
         "package": "adegenet",
-        "url": "https://github.com/thibautjombart/adegenet"
+        "url": "https://github.com/thibautjombart/adegenet",
+        "branch": "cran-release-2021-10"
     },
     {
         "package": "ade4",
