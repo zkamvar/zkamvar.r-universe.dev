@@ -5,24 +5,6 @@
         "branch": "master"
     },
     {
-        "package": "pegboard",
-        "url": "https://github.com/carpentries/pegboard",
-        "branch": "main"
-    },
-    {
-        "package": "sandpaper",
-        "url": "https://github.com/carpentries/sandpaper"
-    },
-    {
-        "package": "renv",
-        "url": "https://github.com/rstudio/renv"
-    },
-    {
-        "package": "varnish",
-        "url": "https://github.com/carpentries/varnish",
-        "branch": "main"
-    },
-    {
         "package": "poppr",
         "url": "https://github.com/grunwaldlab/poppr",
         "branch": "main"
