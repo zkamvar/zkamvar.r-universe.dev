@@ -1,13 +1,11 @@
 [
     {
         "package": "tinkr",
-        "url": "https://github.com/ropensci/tinkr",
-        "branch": "master"
+        "url": "https://github.com/ropensci/tinkr"
     },
     {
         "package": "poppr",
-        "url": "https://github.com/grunwaldlab/poppr",
-        "branch": "main"
+        "url": "https://github.com/grunwaldlab/poppr"
     },
     {
         "package": "adegenet",
