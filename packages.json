@@ -1,5 +1,9 @@
 [
     {
+        "package": "pinsha",
+        "url": "https://github.com/zkamvar/pinsha"
+    },
+    {
         "package": "tinkr",
         "url": "https://github.com/ropensci/tinkr"
     },
